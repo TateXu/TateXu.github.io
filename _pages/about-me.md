@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-permalink: /about_me/
+permalink: /about-me/
 ---
 I'm Jiachen Xu, the Ph.D. student at the University of Vienna, Austria. I obtained my master degree with distinction from Technical University of Munich (TUM), Munich, Germany in 2019 and bachelor degree from Beijing Institute of Technology (BIT), Beijing, China in 2016. 
 
