@@ -5,8 +5,8 @@
     {% seo title=false %}
     {% include meta.html %}
 
-    <link rel="stylesheet" type="text/css" href="www.jiachenxu.net/assets/style.scss" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="www.jiachenxu.net/feed.xml" />
+    <link rel="stylesheet" type="text/css"  href="{{ "/assets/style.scss" | relative_url }}" />
+    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}"  href="{{ "/feed.xml" | relative_url }}" />
     <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
 
     <meta name="theme-color" content="#000000">
